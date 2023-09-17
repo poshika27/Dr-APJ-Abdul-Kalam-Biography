@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+}
+.title{
+    text-align: center;
+}
+.yr{
+    text-align: center;
+    font-size:30px;;
+}
+.blockquote{
+    text-align: center;
+}
+.centre{
+    text-align: center;
+}
+table,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
